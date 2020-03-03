@@ -25,6 +25,19 @@
 /*
  * DESCRIPCION DEL PROYECTO
   Control del proceso de coccion de piezas ceramicas en horno industrial
+
+    MATERIALES NECESARIOS
+    
+    - MCU Arduino UNO, (Nano, MEGA...)
+    - LCD 16x2 con conexion I2C
+    - Potenciometro
+    - Pulsador
+    - Zumbador
+    - Led RGB direccionable
+    - modulo MAX6675 para termopar tipo K
+    - Sonda termopar tipo K
+
+  
   El programa recibe del usuario tres parametros:
   Duracion de la fase de coccion, Temperatura maxima y Tiempo de meseta / mantenimiento de temperatura maxima
   El proceso se realiza en 4 etapas:
