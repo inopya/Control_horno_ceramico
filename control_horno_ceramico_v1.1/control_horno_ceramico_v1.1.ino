@@ -52,7 +52,7 @@
 
 
 
- * NOTAS DE LA VERSION ACTUAL (informacion acululada)
+ * NOTAS DE LA VERSION ACTUAL (informacion acumulada)
   v1.0 - Creacion del esqueleto del programa, menus, temporizadores y curvas de coccion
   v1.1 - añadido led RGB(direccionable) para indicar el estado durante el funcionamiento.
 
@@ -64,7 +64,7 @@
  
  *  CONEXIONES del modulo MAX6675 para termopar tipo K con ARDUINO
  *  
- *  MAX6675 Module  ==>   Arduino
+ *  MAX6675 Modulo  ==>   Arduino
  *      SCK         ==>     D4
  *      CS          ==>     D5
  *      SO          ==>     D6
