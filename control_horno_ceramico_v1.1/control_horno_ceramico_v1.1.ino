@@ -65,9 +65,9 @@
  *  CONEXIONES del modulo MAX6675 para termopar tipo K con ARDUINO
  *  
  *  MAX6675 Modulo  ==>   Arduino
- *      SCK         ==>     D4
- *      CS          ==>     D5
- *      SO          ==>     D6
+ *      SCK         ==>     D10
+ *      CS          ==>     D9
+ *      SO          ==>     D8
  *      Vcc         ==>     Vcc (5v)
  *      Gnd         ==>     Gnd
  *  
